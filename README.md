@@ -3,7 +3,7 @@ This repository contains all my Adobe illustrator projects.
 
 Kawaii Panda Character
 
-<img src="https://user-images.githubusercontent.com/56188746/137349926-22c4d14c-d374-4514-b406-4b2ddaf22d8a.png" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/56188746/137349926-22c4d14c-d374-4514-b406-4b2ddaf22d8a.png" width="250" height="250">
 
 
 
