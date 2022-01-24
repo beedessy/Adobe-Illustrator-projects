@@ -1,5 +1,5 @@
 # Adobe-Illustrator-projects
-This repository contains my Adobe illustrator projects.
+This repository contains some of my Adobe illustrator projects.
 
 Kawaii Characters
 
